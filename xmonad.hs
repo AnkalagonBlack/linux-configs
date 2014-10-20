@@ -1,0 +1,1 @@
+/home/mae/.xmonad/xmonad.hs
