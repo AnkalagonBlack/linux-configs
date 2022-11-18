@@ -138,3 +138,4 @@ main = do xmobar <- spawnPipe "xmobar"
                        manageHook         = myManageHook,
                        logHook            = myLogHook xmobar
                      } --`additionalKeys` addKeys
+
